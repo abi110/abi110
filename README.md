@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**abi110/abi110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning
 - 📫 How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin ---
@@ -13,4 +8,4 @@
 - 😄 Pronouns: she/they
 
 Languages and Tools:- 
--->
+
