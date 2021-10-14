@@ -7,10 +7,10 @@
 ---
 Languages and Tools
 ---
-Python
-HTML & CSS
-VScode
-Pycharm
+- Python
+- HTML & CSS
+- VScode
+- Pycharm
 
 
 
