@@ -5,7 +5,7 @@
 <li> 🤔 I’m looking for help with machine learning </li> 
 <li> 📫 How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin </li> 
 <li> 😄 Pronouns: she/they </li> 
-</uk>
+</ul>
 <hr>
 Languages and Tools
 <hr>
