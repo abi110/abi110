@@ -11,7 +11,7 @@
 <hr>
 Languages and Tools
 <hr>
-<p float="left" padding="10px">
+<p float="left" padding="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" alt="Python">
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px" alt="HTML5">
 <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="45px" alt="CSS3">
