@@ -4,9 +4,9 @@
 - 📫 How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin 
 - 😄 Pronouns: she/they
 
-<br>
+<hr>
 Languages and Tools
-<br>
+<hr>
 - Python
 - HTML5
 - CSS3
