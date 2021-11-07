@@ -11,8 +11,8 @@
 <hr>
 Languages and Tools
 <hr>
-<ul>
-<li> <img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""> Python </li> 
+<br>
+<img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""> <img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200"">
 <li> HTML5 </li> 
 <li> CSS3 </li> 
 <li> VScode </li> 
