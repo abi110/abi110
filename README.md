@@ -12,9 +12,7 @@
 Languages and Tools
 <hr>
 <p float="left">
-  Array (
-    [padding] => 10px 10px 10px 10px)
-<img style="padding: 300px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" alt="Python">
+<img padding= "300px 10px 10px 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" alt="Python">
 <img style="padding: 300px;" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px" alt="HTML5">
 <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="45px" alt="CSS3">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50px" alt="VSCode">
