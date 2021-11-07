@@ -13,7 +13,7 @@ Languages and Tools
 <hr>
 <br>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" alt="Python">
-<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px" alt="HTML5" style=float: right;>
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px" alt="HTML5" style="float: right;">
 <img src="https://www.iconninja.com/files/603/11/689/css-internet-technology-website-web-style-css3-icon.png" width="70px" alt="CSS3">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50px" alt="VSCode">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="50px" alt="PyCharm">
