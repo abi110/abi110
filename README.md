@@ -4,14 +4,16 @@
 - 📫 How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin 
 - 😄 Pronouns: she/they
 
----
+<br>
 Languages and Tools
----
+<br>
 - Python
-- HTML & CSS
+- HTML5
+- CSS3
 - VScode
 - Pycharm
 - Jupyter
+- Google Collab Notebook
 
 
 
