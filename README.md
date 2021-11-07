@@ -12,7 +12,7 @@
 Languages and Tools
 <hr>
 <ul>
-<li><img src:"https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2Lg1xZTX-SSkNpoAG4c6vL&ust=1636401390813000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDR3rGEh_QCFQAAAAAdAAAAABAO"> Python </li> 
+<li>![alt text](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2Lg1xZTX-SSkNpoAG4c6vL&ust=1636401390813000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOicx-mEh_QCFQAAAAAdAAAAABAD) Python </li> 
 <li> HTML5 </li> 
 <li> CSS3 </li> 
 <li> VScode </li> 
