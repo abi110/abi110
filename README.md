@@ -12,14 +12,14 @@
 Languages and Tools
 <hr>
 <br>
-<img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""> <img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200"">
-<li> HTML5 </li> 
-<li> CSS3 </li> 
-<li> VScode </li> 
-<li> Pycharm </li> 
-<li> Jupyter </li> 
-<li> Google Collab Notebook </li> 
-</ul>
+<a><img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200" alt="Python"> 
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="200" alt="HTML5">
+<img src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw0oG3-9bm6NGopwOZmlIHzD&ust=1636402246754000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiN-MeHh_QCFQAAAAAdAAAAABAD" width="200" alt="CSS3">
+<img src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw2ND8L-75rZwpSY9AIuc90_&ust=1636402457717000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCs0KyIh_QCFQAAAAAdAAAAABAD" width="200" alt="VSCode">
+<img src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Icon.svg&psig=AOvVaw1IlQbQpyJzFG9b0nqXjIxB&ust=1636402508728000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODNyMWIh_QCFQAAAAAdAAAAABAD" width="200" alt="PyCharm">
+<img src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJupyter_logo.svg&psig=AOvVaw2sNIOk8MulCpUhWrg6iSUz&ust=1636402589424000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjW4OqIh_QCFQAAAAAdAAAAABAD" width="200" alt="Jupyter">
+<img src="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fmastering-the-features-of-google-colaboratory-92850e75701&psig=AOvVaw00C4TVtJhGlHTm3v4TjbzM&ust=1636402673877000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCs75aJh_QCFQAAAAAdAAAAABAD" width="200" alt="Google Collab Notebook">
+</a>
 
 
 
