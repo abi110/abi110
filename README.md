@@ -12,7 +12,7 @@
 Languages and Tools
 <hr>
 <ul>
-<li> <img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="50""> Python </li> 
+<li> <img src="https://pluspng.com/img-png/python-logo-png-big-image-png-2400.png" width="200""> Python </li> 
 <li> HTML5 </li> 
 <li> CSS3 </li> 
 <li> VScode </li> 
