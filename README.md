@@ -7,13 +7,13 @@
 <hr>
 Languages and Tools
 <hr>
-- Python
-- HTML5
-- CSS3
-- VScode
-- Pycharm
-- Jupyter
-- Google Collab Notebook
+- Python <br>
+- HTML5 <br>
+- CSS3 <br>
+- VScode <br>
+- Pycharm <br>
+- Jupyter <br>
+- Google Collab Notebook <br>
 
 
 
