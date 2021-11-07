@@ -14,7 +14,7 @@ Languages and Tools
 <p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" alt="Python">
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50px" alt="HTML5">
-<img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="50px" alt="CSS3">
+<img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="40px" alt="CSS3">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50px" alt="VSCode">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="50px" alt="PyCharm">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" alt="Jupyter">
