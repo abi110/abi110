@@ -4,7 +4,7 @@
 <li> 🌱 I’m currently learning Python </li> 
 <li> 🤔 I’m looking for help with machine learning </li> 
 <li> :mortar_board: I'm a MSc Student studying Computer Science with AI at Keele Univeristy by distance learning part time</li>
-<li> &nbsp:round_pushpin: &nbsp My dream is to get a job working in Tech, where I am able to make a difference </li>
+<li> &nbsp:round_pushpin:&nbsp My dream is to get a job working in Tech, where I am able to make a difference </li>
 <li> :envelope: How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin </li> 
 <li> 😄 Pronouns: she/they </li> 
 </ul>
