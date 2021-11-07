@@ -1,8 +1,10 @@
+<head>
 <style>
    body{
       background-color: black;
       color: prink;
 </style>
+</head>
 <body>
 ### Hi there 👋 I'm Abi
 <hr>
