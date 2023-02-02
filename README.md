@@ -1,14 +1,13 @@
 ### Hi there 👋 I'm Abi
 <hr>
 <ul>
-<li> 🌱 I’m currently learning Python </li> 
+<li> 🌱 I’m currently working with various languages </li> 
 <li> 🤔 I’m looking for help with Django </li> 
 <li> :mortar_board: I'm a MSc Student studying Computer Science with AI at Keele Univeristy by distance learning part time</li>
 <li> &nbsp:round_pushpin:&nbsp My dream is to get a job as a python/machine learning engineer </li>
 
 
 <li> :envelope: How to reach me: email me at abbie.bennett110@gmail.com or send me a message on linkedin </li> 
-<li> 😄 Pronouns: she/they </li> 
 </ul>
 <hr>
 Languages and Tools
